@@ -1,10 +1,10 @@
-# 💫 Hi 👋, I'm Subhankar Haler
+# 💫 Hi 👋, I'm Subhankar Halder
 **A passionate Data Engineer || Cloud Engineer || ETL Developer from India**
 
 - 🔭 **I’m currently working on:** DLT Databricks Projects
 - 🌱 **I’m currently learning:** End-to-end cloud ETL solutions
 - 🤔 **I’m looking for help with:** Your project here
-- 😄 **Pronouns:** Call me Sir!!
+- 😄 **Pronouns:** Call me Sir..!!
 - ⚡ **Fun fact:** I Love Tech But Tech Doesn't Love Me😒
 
 ## 🔗 I am a Philomath . 💭💡
